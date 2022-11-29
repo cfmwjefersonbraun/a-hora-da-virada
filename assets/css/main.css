@@ -2241,7 +2241,7 @@ ol {
 	Start Countdown CSS
 ========================================*/
 .count-down {
-  background-color: #F4F7FA;
+  /*background-color: #F4F7FA00;*/
 }
 
 .count-down .box-head {
@@ -2274,7 +2274,7 @@ ol {
 
 .count-down .box-content {
   text-align: center;
-  background-color: #3813c2;
+  /*background-color: #3813c2;*/
   background-image: url("../images/count-down/bg.png");
   background-size: cover;
   background-position: center;
@@ -2340,7 +2340,7 @@ ol {
   top: 50%;
   height: 7px;
   width: 7px;
-  background-color: #fff;
+  background-color: #00000080;
   border-radius: 50%;
   margin-top: -7px;
 }
@@ -2361,7 +2361,7 @@ ol {
   top: 50%;
   height: 7px;
   width: 7px;
-  background-color: #fff;
+  background-color: #00000080;
   border-radius: 50%;
   margin-top: 7px;
 }
@@ -2386,7 +2386,7 @@ ol {
 .count-down .box-content .box h1 {
   font-size: 42px;
   font-weight: 700;
-  color: #fff;
+  color: #00000080;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2407,7 +2407,7 @@ ol {
   font-weight: 500;
   display: block;
   margin-top: 5px;
-  color: #fff;
+  color: #00000080;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2508,7 +2508,7 @@ ol {
   line-height: 65px;
   border-radius: 8px;
   color: #fff;
-  background-color: #3813c2;
+  /*background-color: #3813c2;*/
   text-align: center;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
