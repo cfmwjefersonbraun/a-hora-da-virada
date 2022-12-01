@@ -2890,7 +2890,7 @@ ol {
 }
 
 .call-action.overlay::before {
-  background: linear-gradient(45deg, #3813c2, #F20487);
+  background: linear-gradient(45deg, #ffffff, #fefefe);
   opacity: 0.9;
 }
 
@@ -2911,7 +2911,7 @@ ol {
 }
 
 .call-action .text h5 {
-  color: #fff;
+  color: #323232;
   margin-bottom: 20px;
   font-size: 17px;
   display: inline-block;
@@ -2924,7 +2924,7 @@ ol {
   font-size: 37px;
   font-weight: 700;
   line-height: 45px;
-  color: #fff;
+  color: #323232;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2942,7 +2942,7 @@ ol {
 }
 
 .call-action .text p {
-  color: #fff;
+  color: #323232;
   font-size: 16px;
   font-weight: 400;
   margin-top: 20px;
@@ -3233,4 +3233,27 @@ ol {
 
 .footer .copyright .copyright-text a:hover {
   color: #F20487;
+}
+
+
+/*Additions*/
+
+@media only screen and (min-width: 768px) {
+  .call-action .img-perfil {
+    width: 80%;
+  }
+    
+  .call-action .img-logo {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .call-action .img-perfil {
+    width: 50%;
+  }
+    
+  .call-action .img-logo {
+    width: 50%;
+  }
 }
