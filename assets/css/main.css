@@ -1075,7 +1075,7 @@ ol {
   font-weight: 600;
   display: inline-block;
   margin-bottom: 20px;
-  color: #F20487;
+  color: #f5bc04;
   text-transform: capitalize;
   position: relative;
   line-height: 14px;
@@ -1104,7 +1104,7 @@ ol {
           transform: translateY(-50%);
   height: 2px;
   width: 15px;
-  background-color: #F20487;
+  background-color: #f5bc04;
   border-radius: 8px;
 }
 
@@ -1117,7 +1117,7 @@ ol {
           transform: translateY(-50%);
   height: 2px;
   width: 15px;
-  background-color: #F20487;
+  background-color: #f5bc04;
   border-radius: 8px;
 }
 
@@ -1335,7 +1335,7 @@ ol {
   font-weight: 500;
   font-weight: 500;
   padding: 20px 100px;
-  background-color: #3813c2;
+  background-color: #b18701;
   color: #fff;
   border: none;
   -webkit-transition: all 0.3s ease;
@@ -1376,7 +1376,7 @@ ol {
 
 .button .btn:hover {
   color: #fff;
-  background-color: #F20487;
+  background-color: #f5bc04;
 }
 
 .button {
@@ -1384,7 +1384,7 @@ ol {
 }
 
 .button .btn-alt {
-  background-color: #F20487 !important;
+  background-color: #f5bc04 !important;
   color: #fff !important;
 }
 
@@ -1405,7 +1405,7 @@ ol {
 }
 
 .button .btn-alt:hover {
-  background-color: #3813c2 !important;
+  background-color: #b38300 !important;
   color: #fff !important;
 }
 
@@ -1454,7 +1454,7 @@ ol {
   width: 100px;
   height: 100px;
   border-radius: 100%;
-  background: linear-gradient(45deg, #3813c2, #F20487);
+  background: linear-gradient(45deg, #f5bc04, #f5bc04);
   -webkit-animation: preloader-fx 1.6s linear infinite;
   animation: preloader-fx 1.6s linear infinite;
 }
@@ -2052,7 +2052,7 @@ ol {
 }
 
 .others-pages .button .signup:hover {
-  background-color: #F20487;
+  background-color: #f5bc04;
   color: #fff;
 }
 
@@ -2068,7 +2068,7 @@ ol {
     color: #fff;
   }
   .header .button .signup:hover {
-    background-color: #F20487;
+    background-color: #f5bc04;
     color: #fff;
   }
 }
@@ -2624,8 +2624,8 @@ ol {
   z-index: 0;
   transition: all 0.4s ease;
   position: relative;
-  -webkit-box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.048);
-          box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.048);
+  -webkit-box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.13);
+          box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.13);
 }
 
 .pricing-table .single-table:hover {
@@ -2636,8 +2636,8 @@ ol {
 }
 
 .pricing-table .single-table.middle .table-head .title {
-  border-color: #F20487;
-  color: #F20487;
+  border-color: #f5bc04;
+  color: #f5bc04;
 }
 
 .pricing-table .single-table .table-head .title {
@@ -2890,8 +2890,8 @@ ol {
 }
 
 .call-action.overlay::before {
-  background: linear-gradient(45deg, #ffffff, #fefefe);
-  opacity: 0.9;
+  background: linear-gradient(0deg, #cccccc, #ffffff);
+  opacity: 0.96;
 }
 
 .call-action .inner-content {
@@ -2978,7 +2978,7 @@ ol {
 }
 
 .call-action .button .btn.btn-alt:hover {
-  background-color: #101130 !important;
+  background-color: #b18701 !important;
 }
 
 @media (max-width: 767px) {
