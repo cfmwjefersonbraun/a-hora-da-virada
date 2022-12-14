@@ -11,12 +11,13 @@ html {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #727272;
+  color: #444;
+  color: #444;
   overflow-x: hidden;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 p {
@@ -1384,7 +1385,7 @@ ol {
 }
 
 .button .btn-alt {
-  background-color: #f5bc04 !important;
+  background-color: #b18701 !important;
   color: #fff !important;
 }
 
@@ -2680,7 +2681,7 @@ ol {
           box-shadow: none;
 }
 
-.pricing-table .single-table .button .btn::before {
+/*.pricing-table .single-table .button .btn::before {
   position: absolute;
   content: "";
   left: -10px;
@@ -2704,7 +2705,7 @@ ol {
   width: 20px;
   background-color: #fff;
   border-radius: 50%;
-}
+}*/
 
 .pricing-table .single-table .table-content .table-list li {
   position: relative;
@@ -2978,7 +2979,7 @@ ol {
 }
 
 .call-action .button .btn.btn-alt:hover {
-  background-color: #b18701 !important;
+  background-color: #f99009 !important;
 }
 
 @media (max-width: 767px) {
