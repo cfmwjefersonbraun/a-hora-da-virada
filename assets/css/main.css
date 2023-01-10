@@ -14,16 +14,15 @@ body {
   font-family: "Helvetica", sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #444;
-  color: #444;
+  color: #222;
   overflow-x: hidden;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 p {
   margin: 0;
   padding: 0;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 24px;
 }
 
@@ -117,7 +116,7 @@ h5,
 h6 {
   font-weight: 600;
   margin: 0px;
-  color: #101130;
+  color: #222222;
   font-family: 'Barlow', sans-serif;
 }
 
@@ -2182,9 +2181,9 @@ ol {
 
 .hero-area .hero-content p {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 28px;
-  color: #727272;
+  color: #222222;
   margin: 28px 0;
 }
 
